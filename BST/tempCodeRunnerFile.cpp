@@ -1,0 +1,2 @@
+
+       LNode*temp=head;

@@ -1,0 +1,1 @@
+{"name":"Local: wavePrint","url":"c:\\Users\\Ansh Pahwa\\Desktop\\DSA Practice\\Array\\wavePrint.cpp","tests":[{"id":1676959154478,"input":"3 3\n1 2 3 \n8 9 10 \n15 16 17\n\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Ansh Pahwa\\Desktop\\DSA Practice\\Array\\wavePrint.cpp","group":"local","local":true}

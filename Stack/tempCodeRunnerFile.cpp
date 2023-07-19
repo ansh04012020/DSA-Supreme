@@ -1,0 +1,2 @@
+if (st.empty())
+        return;
